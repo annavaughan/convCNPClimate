@@ -1,4 +1,5 @@
 # convCNPClimate
+![alt text](graz_tmax.png)
 Implementation of convolutional conditional neural processes for statistical downscaling. 
 
 ## Examples
